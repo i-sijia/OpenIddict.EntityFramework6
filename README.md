@@ -1,0 +1,1 @@
+# OpenIddict.EntityFramework6
